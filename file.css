@@ -1,0 +1,7 @@
+*{ margin: 0; padding: 0;}
+
+header{
+    width: 50%;
+    height: 50vp;
+    background-image: linear-gradient(to left,#fff 80%,#c3f5ff 20%);
+}
